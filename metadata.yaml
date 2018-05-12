@@ -1,0 +1,44 @@
+_repo: At-the-Ghost-HourThe-House-of-the-Unbelieving-Thomas_33878
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Morse, Alice C. (Alice Cordelia)
+    birthdate: 1862
+    gutenberg_agent_id: '40404'
+    url: http://www.gutenberg.org/2009/agents/40404
+  translator:
+    agent_name: Van Santford, Frances A.
+    alias: Santford, Frances A. Van
+    gutenberg_agent_id: '36784'
+    url: http://www.gutenberg.org/2009/agents/36784
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heyse, Paul
+    aliases:
+    - Heyse, Paul Johann Ludwig von
+    - Heise, Paul
+    birthdate: 1830
+    deathdate: 1914
+    gutenberg_agent_id: '1121'
+    url: http://www.gutenberg.org/2009/agents/1121
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Paul_Heyse
+    - http://en.wikipedia.org/wiki/Paul_Heyse
+description: ''
+gutenberg_issued: '2010-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33878'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories'
+- !lcsh 'German fiction -- Translations into English'
+- !lcc 'PT'
+title: At the Ghost Hour. The House of the Unbelieving Thomas
+url: http://www.gutenberg.org/ebooks/33878
