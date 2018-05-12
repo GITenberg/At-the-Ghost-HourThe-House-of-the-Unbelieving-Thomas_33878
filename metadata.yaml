@@ -28,6 +28,8 @@ creator:
     - http://de.wikipedia.org/wiki/Paul_Heyse
     - http://en.wikipedia.org/wiki/Paul_Heyse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33878#At-the-Ghost-HourThe-House-of-the-Unbelieving-Thomas
 gutenberg_issued: '2010-10-22'
 gutenberg_type: Text
 identifiers:
